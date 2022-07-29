@@ -1,0 +1,14 @@
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\bin\Debug\netcoreapp3.1\UsandoBeecrowd.exe
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\bin\Debug\netcoreapp3.1\UsandoBeecrowd.deps.json
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\bin\Debug\netcoreapp3.1\UsandoBeecrowd.runtimeconfig.json
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\bin\Debug\netcoreapp3.1\UsandoBeecrowd.runtimeconfig.dev.json
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\bin\Debug\netcoreapp3.1\UsandoBeecrowd.dll
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\bin\Debug\netcoreapp3.1\UsandoBeecrowd.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.csproj.AssemblyReference.cache
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.AssemblyInfoInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.AssemblyInfo.cs
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.csproj.CoreCompileInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.dll
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd\obj\Debug\netcoreapp3.1\UsandoBeecrowd.genruntimeconfig.cache
