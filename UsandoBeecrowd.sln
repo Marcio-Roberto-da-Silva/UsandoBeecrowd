@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsandoBeecrowd", "UsandoBeecrowd.csproj", "{F7325813-890E-433C-980A-49751BB1C732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsandoBeecrowd", "UsandoBeecrowd.csproj", "{F7325813-890E-433C-980A-49751BB1C732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_1001", "..\Exec_1001\Exec_1001.csproj", "{5E0D0E66-8782-4D2E-B1A9-27FA24B7B6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_1002", "..\Exec_1002\Exec_1002.csproj", "{A59FD2F6-81D1-4FFA-A5DD-DC31FED0FC76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F7325813-890E-433C-980A-49751BB1C732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7325813-890E-433C-980A-49751BB1C732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7325813-890E-433C-980A-49751BB1C732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0D0E66-8782-4D2E-B1A9-27FA24B7B6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0D0E66-8782-4D2E-B1A9-27FA24B7B6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0D0E66-8782-4D2E-B1A9-27FA24B7B6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0D0E66-8782-4D2E-B1A9-27FA24B7B6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59FD2F6-81D1-4FFA-A5DD-DC31FED0FC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59FD2F6-81D1-4FFA-A5DD-DC31FED0FC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59FD2F6-81D1-4FFA-A5DD-DC31FED0FC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59FD2F6-81D1-4FFA-A5DD-DC31FED0FC76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
