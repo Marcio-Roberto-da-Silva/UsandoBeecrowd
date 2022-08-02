@@ -1,0 +1,14 @@
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.csproj.AssemblyReference.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.AssemblyInfoInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.AssemblyInfo.cs
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.csproj.CoreCompileInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\bin\Debug\netcoreapp3.1\Exerc_1004.exe
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\bin\Debug\netcoreapp3.1\Exerc_1004.deps.json
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\bin\Debug\netcoreapp3.1\Exerc_1004.runtimeconfig.json
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\bin\Debug\netcoreapp3.1\Exerc_1004.runtimeconfig.dev.json
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\bin\Debug\netcoreapp3.1\Exerc_1004.dll
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\bin\Debug\netcoreapp3.1\Exerc_1004.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.dll
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1004\obj\Debug\netcoreapp3.1\Exerc_1004.genruntimeconfig.cache
