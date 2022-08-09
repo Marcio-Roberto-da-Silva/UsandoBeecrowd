@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\Exerc_1005\\Exerc_1005.csproj": {}
+    "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\UsandoBeecrowd\\Exerc_1005\\Exerc_1005.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\Exerc_1005\\Exerc_1005.csproj": {
+    "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\UsandoBeecrowd\\Exerc_1005\\Exerc_1005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\Exerc_1005\\Exerc_1005.csproj",
+        "projectUniqueName": "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\UsandoBeecrowd\\Exerc_1005\\Exerc_1005.csproj",
         "projectName": "Exerc_1005",
-        "projectPath": "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\Exerc_1005\\Exerc_1005.csproj",
+        "projectPath": "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\UsandoBeecrowd\\Exerc_1005\\Exerc_1005.csproj",
         "packagesPath": "C:\\Users\\MarcioRobertodaSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\Exerc_1005\\obj\\",
+        "outputPath": "C:\\Users\\MarcioRobertodaSilva\\source\\repos\\UsandoBeecrowd\\Exerc_1005\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MarcioRobertodaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
