@@ -19,13 +19,13 @@ namespace Exerc_1020 {
 
             ano365 = N / 365;
             resto = N % 365;
-            Console.WriteLine(ano365 + "  ano(s)");
+            Console.WriteLine(ano365 + " ano(s)");
 
             mes30 = resto / 30;
             dia = resto % 30;
-            Console.WriteLine(mes30 + "  mes(es)");
+            Console.WriteLine(mes30 + " mes(es)");
 
-            Console.WriteLine(dia + "  dia(s)");
+            Console.WriteLine(dia + " dia(s)");
 
             Console.ReadLine();
         }

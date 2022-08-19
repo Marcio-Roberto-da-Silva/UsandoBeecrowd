@@ -1,0 +1,7 @@
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1037\bin\Debug\Exerc_1037.exe.config
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1037\bin\Debug\Exerc_1037.exe
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1037\bin\Debug\Exerc_1037.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1037\obj\Debug\Exerc_1037.csproj.AssemblyReference.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1037\obj\Debug\Exerc_1037.csproj.CoreCompileInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1037\obj\Debug\Exerc_1037.exe
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1037\obj\Debug\Exerc_1037.pdb

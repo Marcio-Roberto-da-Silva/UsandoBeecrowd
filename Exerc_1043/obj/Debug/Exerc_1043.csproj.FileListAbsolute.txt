@@ -1,0 +1,6 @@
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1043\bin\Debug\Exerc_1043.exe.config
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1043\bin\Debug\Exerc_1043.exe
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1043\bin\Debug\Exerc_1043.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1043\obj\Debug\Exerc_1043.csproj.CoreCompileInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1043\obj\Debug\Exerc_1043.exe
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1043\obj\Debug\Exerc_1043.pdb
