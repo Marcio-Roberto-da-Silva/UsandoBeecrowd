@@ -1,0 +1,7 @@
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1060\bin\Debug\Exerc_1060.exe.config
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1060\bin\Debug\Exerc_1060.exe
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1060\bin\Debug\Exerc_1060.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1060\obj\Debug\Exerc_1060.csproj.AssemblyReference.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1060\obj\Debug\Exerc_1060.csproj.CoreCompileInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1060\obj\Debug\Exerc_1060.exe
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1060\obj\Debug\Exerc_1060.pdb
